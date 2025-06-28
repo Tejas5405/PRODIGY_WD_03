@@ -66,13 +66,11 @@
 - **Winning line animation** with green highlight
 - **Celebration messages** with emojis
 
-## 🔗 Live Demo
 
-[Add your GitHub Pages link here]
 
 ## 📂 GitHub Repository
 
-[Add your GitHub repo link here]
+https://github.com/Tejas5405/PRODIGY_WD_03/
 
 ---
 
