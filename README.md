@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task-03: Tic-Tac-Toe Web Application
 
 🎮 Developed an interactive Tic-Tac-Toe game using HTML, CSS, and JavaScript for my internship at Prodigy InfoTech.
@@ -66,8 +65,6 @@
 - **Winning line animation** with green highlight
 - **Celebration messages** with emojis
 
-
-
 ## 📂 GitHub Repository
 
 https://github.com/Tejas5405/PRODIGY_WD_03/
@@ -75,6 +72,3 @@ https://github.com/Tejas5405/PRODIGY_WD_03/
 ---
 
 _Built with ❤️ for Prodigy InfoTech Web Development Internship_
-=======
-# PRODIGY_WD_03
->>>>>>> 2ad98d734e31b26ff4a9eb171765168831b1945d
